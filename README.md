@@ -59,7 +59,7 @@ This project simulates a simple restaurant management system in C++. It includes
 
 1. Clone this repository.
    bash
-   git clone https://github.com/your-username/restaurant-simulation.git
+   git clone https://github.com/FouriusCraft/DinnerDashTugas.git
    
 2. Navigate to the project directory.
    bash
