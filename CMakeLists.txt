@@ -4,4 +4,14 @@ project(untitled4)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled4 main.cpp
+        Customer.h
+        Customer.cpp
+        Table.h
+        Table.cpp
+        Order.h
+        Order.cpp
+        Kitchen.h
+        Kitchen.cpp
+        Waiter.h
+        Waiter.cpp
 )

@@ -1,0 +1,16 @@
+# ninja log v6
+4	1015	7494053956800754	CMakeFiles/untitled4.dir/main.cpp.obj	de43acf5b10ebe9
+5	89	7494055801663923	untitled4.exe	445ce54ae6a6b05f
+10	539	7494053490806212	CMakeFiles/untitled4.dir/Order.cpp.obj	65b649bf3d47b3c7
+5	520	7494053956816743	CMakeFiles/untitled4.dir/Table.cpp.obj	88455339c0442c3f
+7	422	7494054302084039	CMakeFiles/untitled4.dir/Waiter.cpp.obj	1a5b3e5134fb7d97
+7	1019	7494053490771187	CMakeFiles/untitled4.dir/Customer.cpp.obj	9061e722cee63849
+5	784	7494054302074037	CMakeFiles/untitled4.dir/Kitchen.cpp.obj	39f64712332e7454
+1	192	7494057775397908	build.ninja	ad220be298261894
+10	486	7494057884379762	CMakeFiles/untitled4.dir/Order.cpp.obj	65b649bf3d47b3c7
+9	554	7494057884369717	CMakeFiles/untitled4.dir/Table.cpp.obj	88455339c0442c3f
+5	577	7494057884329627	CMakeFiles/untitled4.dir/main.cpp.obj	de43acf5b10ebe9
+14	582	7494057884419685	CMakeFiles/untitled4.dir/Waiter.cpp.obj	1a5b3e5134fb7d97
+12	990	7494057884399624	CMakeFiles/untitled4.dir/Kitchen.cpp.obj	39f64712332e7454
+7	1013	7494057884349623	CMakeFiles/untitled4.dir/Customer.cpp.obj	9061e722cee63849
+1013	1077	7494057894408069	untitled4.exe	71b85da516bd57f7
